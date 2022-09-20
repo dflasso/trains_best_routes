@@ -12,7 +12,6 @@ import com.danyLasso.solutions.trains.DTOs.EdgeDTO;
 import com.danyLasso.solutions.trains.DTOs.NodeDTO;
 import com.danyLasso.solutions.trains.DTOs.RouteDTO;
 import java.util.List;
-import java.util.stream.Collectors;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
