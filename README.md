@@ -60,7 +60,7 @@ If you need publish this librery in specify repository.
 Reference: [Docs](https://maven.apache.org/pom.html#repository)
 
 # Solution Architecture
-[Class Diagram]()
+[Class Diagram](https://github.com/dflasso/trains_best_routes/blob/main/docs/Diagramas-Dany_Lasso-Diagrama%20de%20Clases.drawio.pdf)
 
 # TDD
 All feactures have a unit test, and funtional test. First the test was designed and then the functionality
