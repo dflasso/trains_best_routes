@@ -1,7 +1,7 @@
 # Library trains best routes
 
 <p align="center">
-  <img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Graph nodes and edges" />
+  <img src="https://instatecno.com/wp-content/uploads/2018/10/Java-11.jpg" width="200" alt="Java" />
 </p>
 
 # Overwrite
@@ -13,6 +13,8 @@ Input:  A directed graph where a node represents a town and an edge represents a
 
 Output: For test input 1 through 5, if no such route exists, output 'NO SUCH ROUTE'.  Otherwise, follow the route as given; do not make any extra stops!  For example, the first problem means to start at city A, then travel directly to city B (a distance of 5), then directly to city C (a distance of 4).
 
+## Graph nodes and edges
+![Graph nodes and edges](https://raw.githubusercontent.com/dflasso/trains_best_routes/main/docs/design/Diagramas-Dany_Lasso-Grafo_de_rutas.jpg)
 
 # Get Starting
 
